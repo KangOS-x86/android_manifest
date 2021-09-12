@@ -14,7 +14,14 @@
   <remote name="ag" fetch="https://gitlab.com/android-generic" />
   <remote name="gl" fetch="https://gitlab.com" />
   <remote name="collabora" fetch="https://gitlab.collabora.com/spurv/" />
-  <remote name="lineageos" fetch="https://github.com/LineageOS"
-          revision="lineage-18.0" />
-
+  <remote name="lineageos" fetch="https://github.com/LineageOS"/>
+  <remote name="lineagex86" fetch="https://gitlab.com/lineageos-x86" />
+  <remote name="ax" fetch="https://github.com/axonasif" />
+  <remote name="bd" fetch="https://github.com/boringdroid" />
+  <remote name="ghub" fetch="https://github.com/" />
+  <remote name="intel" fetch="https://github.com/intel/" />
+  <remote name="celadon" fetch="https://github.com/projectceladon/" />
+  <remote name="hm" fetch="https://github.com/hmtheboy154" />
+  <remote name="axon" fetch="https://github.com/axonasif/" />
+  <remote name="sg" fetch="https://github.com/supremegamers" />
 </manifest>
