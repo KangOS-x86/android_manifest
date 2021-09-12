@@ -7,7 +7,6 @@
 	<project path="device/generic/x86" name="device/generic/x86" remote="x86" revision="r-x86" />
 	<!-- KERNEL -->
 	<project path="kernel" name="Darkmatter-kernel" remote="hm" revision="pledge-xanmod" />
-	<project path="test/kernel" name="kernel/tests" remote="aosp" />
 	<project path="external/kernel-drivers" name="external_kernel-drivers" remote="sg" revision="darkmatter" />
 	<project name="external_surface-drivers" path="vendor/surface-drivers" remote="BR-x86" revision="q10-07.25.20" />
 
