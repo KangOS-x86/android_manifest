@@ -72,7 +72,6 @@
 	<remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" />
 	<remove-project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" />
 	<remove-project name="platform/prebuilts/build-tools" />
-	<remove-project name="platform/system/bt" />
 	<remove-project name="platform/system/core" />
 	<remove-project name="platform/system/incremental_delivery" />
 	<remove-project name="platform/system/libufdt" />
