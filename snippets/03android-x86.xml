@@ -1,4 +1,6 @@
- <project path="test/kernel" name="kernel/tests" remote="aosp" />
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="test/kernel" name="kernel/tests" remote="aosp" />
   <project path="bootable/newinstaller" name="bootable_newinstaller" remote="BR-x86" revision="sakura/11-x86" />
   <project path="external/alsa-lib" name="platform/external/alsa-lib" remote="x86" revision="pie-x86" />
   <project path="external/alsa-utils" name="platform/external/alsa-utils" remote="x86" revision="pie-x86" />
@@ -37,3 +39,4 @@
   <project path="hardware/memtrack" name="platform/hardware/memtrack" remote="x86" revision="r-x86" />
   <project path="hardware/x86power" name="hardware-x86power" remote="BR-x86" revision="r11" />
   <project path="packages/apps/TSCalibration2" name="platform/packages/apps/TSCalibration2" remote="x86" revision="q-x86" />
+</manifest>
