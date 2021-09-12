@@ -32,12 +32,12 @@ To get started with the building process, you'll need to get familiar with [Git 
 To initialize your local repository, use a command like this:
 
 ```bash
-repo init -u https://github.com/Kang-OS-R/android_manifest -b eleven
+repo init -u https://github.com/KangOS-x86/android_manifest -b eleven
 ```
 To save time, space and internet data during sync, use a command like this:
 
 ```bash
-repo init --depth=1 -u https://github.com/Kang-OS-R/android_manifest -b eleven
+repo init --depth=1 -u https://github.com/KangOS-x86/android_manifest -b eleven
 ```
 
 Then to sync up
