@@ -14,10 +14,9 @@
   <remote  name="github"
            fetch="https://github.com/" />
 
-  <remote  name="device"
-           fetch="https://github.com/KangOS-Device"
+  <remote  name="kang-x86"
+           fetch="https://github.com/KangOS-x86"
            revision="eleven" />
-
 
   <project path="bionic" name="android_bionic" remote="kangos" />
 
@@ -25,12 +24,9 @@
   <project path="art" name="android_art" remote="kangos" />
 
   <!-- vendor -->
-  <project path="vendor/kangos" name="android_vendor_kangos" remote="kangos" />
+  <project path="vendor/kangos" name="android_vendor_kangos" remote="kang-x86" />
   <project path="vendor/themes" name="android_vendor_themes" remote="kangos" />
-  <project path="vendor/revengeui" name="android_vendor_kangui" remote="kangos" />
-  <project path="vendor/gapps" name="kang-os-r/vendor_gapps" remote="gitlab" revision="eleven" />
-  <project path="vendor/oplauncher" name="ElectroPerf/vendor_oplauncher" remote="github" revision="11" />
-  <project path="vendor/opfilemanager" name="android_vendor_opfilemanager" remote="kangos" />
+  <project path="vendor/revengeui" name="android_vendor_kangui" remote="kang-x86" />
   <project path="vendor/qcom/opensource/commonsys/packages/apps/Bluetooth" name="android_vendor_qcom_opensource_packages_apps_Bluetooth" remote="kangos" />
   <project path="vendor/qcom/opensource/commonsys/system/bt" name="android_vendor_qcom_opensource_system_bt" remote="kangos" />
   <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="kangos">
@@ -42,7 +38,7 @@
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="kangos" />
 
   <!-- recovery -->
-  <project path="bootable/recovery" name="android_bootable_recovery" remote="kangos" />
+  <project path="bootable/recovery" name="android_bootable_recovery" remote="kang-x86" />
 
   <!-- developmet -->
   <project path="development" name="android_development" remote="kangos" />
