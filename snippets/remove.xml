@@ -87,7 +87,6 @@
 	<remove-project name="platform/system/timezone" />
 	<remove-project name="platform/external/boringssl" />
 	<remove-project name="platform/external/toybox" />
-	<remove-project name="platform/packages/apps/Bluetooth" />
 	<remove-project name="kernel/tests" />
 	<remove-project name="kernel/prebuilts/4.19/arm64" />
 	<remove-project name="platform/compatibility/cdd" />
