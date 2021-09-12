@@ -54,7 +54,6 @@
 	<remove-project name="platform/packages/apps/Nfc" />
 	<remove-project name="platform/packages/inputmethods/LatinIME" />
 	<remove-project name="platform/packages/providers/TelephonyProvider" />
-	<remove-project name="platform/packages/providers/MediaProvider" />
 	<remove-project name="platform/packages/providers/ContactsProvider" />
 	<remove-project name="platform/packages/providers/CallLogProvider" />
 	<remove-project name="platform/packages/providers/CalendarProvider" />
@@ -75,7 +74,6 @@
 	<remove-project name="platform/system/sepolicy" />
 	<remove-project name="platform/system/security" />
 	<remove-project name="platform/system/tools/mkbootimg" />
-	<remove-project name="platform/system/update_engine" />
 	<remove-project name="platform/system/vold" />
 	<remove-project name="platform/external/cldr" />
 	<remove-project name="platform/external/icu" />
@@ -133,7 +131,6 @@
 	<remove-project name="platform/platform_testing" />
 	<remove-project name="platform/packages/apps/Car/Calendar" />
 	<remove-project name="platform/packages/apps/Car/Cluster" />
-	<remove-project name="platform/packages/apps/Car/CompanionDeviceSupport" />
 	<remove-project name="platform/packages/apps/Car/Dialer" />
 	<remove-project name="platform/packages/apps/Car/Hvac" />
 	<remove-project name="platform/packages/apps/Car/LatinIME" />
