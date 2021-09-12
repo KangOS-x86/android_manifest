@@ -31,7 +31,7 @@
   <project path="hardware/intel/common/vaapi" name="platform/hardware/intel/common/vaapi" remote="x86" revision="r-x86" />
   <project path="hardware/intel/libsensors" name="platform/hardware/intel/libsensors" remote="x86" revision="r-x86" />
   <project path="hardware/libaudio" name="platform_hardware_libaudio" remote="BR-x86" revision="r11-r36" />
-  <project path="hardware/libcamera" name="platform/hardware/libcamera" remote="BR-x86" revision="r11-r36" />
+  <project path="hardware/libcamera" name="platform_hardware_libcamera" remote="BR-x86" revision="r11-r36" />
   <project path="hardware/liblights" name="platform/hardware/liblights" remote="x86" revision="r-x86" />
   <project path="hardware/libsensors" name="platform/hardware/libsensors" remote="x86" revision="r-x86" />
   <project path="hardware/memtrack" name="platform/hardware/memtrack" remote="x86" revision="r-x86" />
