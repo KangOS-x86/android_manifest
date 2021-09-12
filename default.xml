@@ -835,6 +835,12 @@
   <include name="snippets/hardware.xml" />
   <include name="snippets/temporary.xml" />
   <include name="snippets/kangos.xml" />
+  <include name="snippets/00remotes.xml" />
+  <include name="snippets/01remove.xml" />
+  <include name="snippets/03android-x86.xml" />
+  <include name="snippets/04device-generic-common.xml" />
+  <include name="snippets/05other.xml" />
+
 
 </manifest>
 
