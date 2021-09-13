@@ -83,9 +83,7 @@
   
   <!-- hardware -->
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="kangos" />
-  <project path="hardware/custom/interfaces" name="android_hardware_custom_interfaces" remote="kangos" />
   <project path="hardware/knowles/athletico/sound_trigger_hal" name="android_hardware_knowles_athletico_sound_trigger_hal" remote="kangos" />
-  <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="kangos" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="kangos" />
   <project path="hardware/ril" name="android_hardware_ril" remote="kangos" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="kangos" />
