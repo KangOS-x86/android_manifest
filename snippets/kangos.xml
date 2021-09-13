@@ -36,9 +36,9 @@
   <project path="development" name="android_development" remote="kangos" />
 
   <!-- system -->
-  <project path="system/core" name="android_system_core" remote="kangos" />
+  <project path="system/core" name="android_system_core" remote="kang-x86" />
   <project path="system/tools/mkbootimg" name="android_system_tools_mkbootimg" remote="kangos" />
-  <project path="system/sepolicy" name="android_system_sepolicy" remote="kangos" />
+  <project path="system/sepolicy" name="android_system_sepolicy" remote="kang-x86" />
   <project path="system/vold" name="android_system_vold" remote="kangos" />
   <project path="system/libufdt" name="android_system_libufdt" remote="kangos" />
   <project path="system/bt" name="android_system_bt" remote="kangos" />
