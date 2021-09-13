@@ -6,5 +6,6 @@
 	<project path="prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" remote="aosp" revision="refs/tags/android-10.0.0_r37" clone-depth="1" />
 -->
 	<project path="external/syslinux" name="platform/external/syslinux" remote="aosp" revision="master" clone-depth="1" />
+    <project path="device/kangos/sepolicy" name="device_lineage_sepolicy" remote="BR-x86" revision="r11-r36" />
 
 </manifest>
