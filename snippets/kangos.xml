@@ -51,7 +51,7 @@
 
   <!-- packages -->
   <project path="packages/apps/Lawnchair" name="android_packages_apps_Lawnchair" remote="kangos" />
-  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="kangos" />
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="kang-x86" />
   <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="kangos" />
   <project path="packages/apps/DU-Themes" name="android_packages_apps_DU-Themes" remote="kangos" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="kangos" />
