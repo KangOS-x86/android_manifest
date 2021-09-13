@@ -8,6 +8,6 @@
 	<!-- KERNEL -->
 	<project path="kernel" name="kernel_common" remote="BR-x86" revision="android12-5.10.52-ax86" />
 	<project path="external/kernel-drivers" name="external_kernel-drivers" remote="sg" revision="darkmatter" />
-	<project name="external_surface-drivers" path="external/surface-drivers" remote="BR-x86" revision="q10-07.25.20" />
+	<project name="external_surface-drivers" path="vendor/surface-drivers" remote="BR-x86" revision="q10-07.25.20" />
 
 </manifest>
