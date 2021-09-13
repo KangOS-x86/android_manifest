@@ -9,13 +9,11 @@
 <!--
   <remove-project name="device/generic/arm64" />
   <remove-project name="device/generic/armv7-a-neon" />
--->
   <remove-project name="device/generic/art" />
   <remove-project name="device/generic/car" />
   <remove-project name="device/generic/common" />
   <remove-project name="device/generic/goldfish" />
   <remove-project name="device/generic/goldfish-opengl" />
-<!--
   <remove-project name="device/generic/mini-emulator-arm64" />
   <remove-project name="device/generic/mini-emulator-armv7-a-neon" />
   <remove-project name="device/generic/mini-emulator-x86" />
@@ -26,9 +24,7 @@
 -->
 <!--
   <remove-project name="device/generic/qemu" />
--->
   <remove-project name="device/generic/trusty" />
-<!--
   <remove-project name="device/generic/uml" />
 -->
 <!--
@@ -65,14 +61,10 @@
   <remove-project name="device/google/sunfish-sepolicy" />
   <remove-project name="device/google/taimen" />
   <remove-project name="device/google/trout" />
--->
   <remove-project name="device/google/vrservices" />
-<!--
   <remove-project name="device/google/wahoo" />
   <remove-project name="device/google/wahoo-kernel" />
--->
   <remove-project name="device/google_car" />
-<!--
   <remove-project name="device/linaro/bootloader/arm-trusted-firmware" />
   <remove-project name="device/linaro/bootloader/edk2" />
   <remove-project name="device/linaro/bootloader/OpenPlatformPkg" />
@@ -82,9 +74,7 @@
   <remove-project name="device/linaro/hikey-kernel" />
   <remove-project name="device/linaro/poplar" />
   <remove-project name="device/linaro/poplar-kernel" />
--->
   <remove-project name="device/mediatek/wembley-sepolicy" />
-<!--
   <remove-project name="device/ti/beagle-x15" />
   <remove-project name="device/ti/beagle-x15-kernel" />
 -->
@@ -119,53 +109,6 @@
   <remove-project name="platform/hardware/google/pixel" />
   <remove-project name="platform/hardware/google/pixel-sepolicy" />
   <remove-project name="platform/hardware/invensense" />
-<!--
-  <remove-project name="platform/hardware/nxp/nfc" />
--->
-  <remove-project name="platform/hardware/nxp/secure_element" />
-<!--
-  <remove-project name="platform/hardware/qcom/audio" />
-  <remove-project name="platform/hardware/qcom/bootctrl" />
--->
-  <remove-project name="platform/hardware/qcom/bt" />
-<!--
-  <remove-project name="platform/hardware/qcom/display" />
-  <remove-project name="platform/hardware/qcom/gps" />
--->
-  <remove-project name="platform/hardware/qcom/keymaster" />
-<!--
-  <remove-project name="platform/hardware/qcom/media" />
--->
-  <remove-project name="platform/hardware/qcom/msm8960" />
-  <remove-project name="platform/hardware/qcom/msm8994" />
-  <remove-project name="platform/hardware/qcom/msm8996" />
-<!--
-  <remove-project name="platform/hardware/qcom/msm8998" />
--->
-  <remove-project name="platform/hardware/qcom/msm8x09" />
-  <remove-project name="platform/hardware/qcom/msm8x26" />
-  <remove-project name="platform/hardware/qcom/msm8x27" />
-  <remove-project name="platform/hardware/qcom/msm8x84" />
-<!--
-  <remove-project name="platform/hardware/qcom/power" />
--->
-  <remove-project name="platform/hardware/qcom/sdm845/bt" />
-  <remove-project name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" />
-<!--
-  <remove-project name="platform/hardware/qcom/sdm845/display" />
--->
-  <remove-project name="platform/hardware/qcom/sdm845/gps" />
-  <remove-project name="platform/hardware/qcom/sdm845/media" />
-  <remove-project name="platform/hardware/qcom/sdm845/thermal" />
-  <remove-project name="platform/hardware/qcom/sdm845/vr" />
-  <remove-project name="platform/hardware/qcom/sm7150/gps" />
-  <remove-project name="platform/hardware/qcom/sm8150/data/ipacfg-mgr" />
-  <remove-project name="platform/hardware/qcom/sm8150/display" />
-  <remove-project name="platform/hardware/qcom/sm8150/gps" />
-  <remove-project name="platform/hardware/qcom/sm8150/media" />
-  <remove-project name="platform/hardware/qcom/sm8150/thermal" />
-  <remove-project name="platform/hardware/qcom/sm8150/vr" />
-  <remove-project name="platform/hardware/qcom/sm8150p/gps" />
   <remove-project name="platform/hardware/st/nfc" />
   <remove-project name="platform/hardware/st/secure_element" />
   <remove-project name="platform/hardware/ti/am57x" />
