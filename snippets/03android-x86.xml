@@ -22,7 +22,7 @@
   <project path="external/mesa" name="mesa" remote="hm" revision="21.2.0_r-x86" />
   <project path="external/minigbm" name="minigbm" remote="celadon" revision="master" />
   <project path="external/s2tc" name="platform/external/s2tc" remote="x86" revision="r-x86" />
-  <project path="external/stagefright-plugins" name="stagefright-plugins" remote="BR-x86" revision="r11-r36" />
+  <project path="external/stagefright-plugins" name="stagefright-plugins" remote="sg" revision="r11-r36" />
   <project path="external/swiftshader" name="platform/external/swiftshader" remote="x86" revision="q-x86" />
   <project path="external/v86d" name="platform/external/v86d" remote="x86" revision="r-x86" />
   <project path="hardware/gps" name="platform/hardware/gps" remote="x86" revision="r-x86" />
@@ -30,11 +30,11 @@
   <project path="hardware/intel/common/libva" name="platform/hardware/intel/common/libva" remote="x86" revision="r-x86" />
   <project path="hardware/intel/common/vaapi" name="platform/hardware/intel/common/vaapi" remote="x86" revision="r-x86" />
   <project path="hardware/intel/libsensors" name="platform/hardware/intel/libsensors" remote="x86" revision="r-x86" />
-  <project path="hardware/libaudio" name="platform_hardware_libaudio" remote="BR-x86" revision="r11-r36" />
-  <project path="hardware/libcamera" name="platform_hardware_libcamera" remote="BR-x86" revision="r11-r36" />
+  <project path="hardware/libaudio" name="platform_hardware_libaudio" remote="sg" revision="11-x86" />
+  <project path="hardware/libcamera" name="platform/hardware/libcamera" remote="x86" revision="q-x86" />
   <project path="hardware/liblights" name="platform/hardware/liblights" remote="x86" revision="r-x86" />
   <project path="hardware/libsensors" name="platform/hardware/libsensors" remote="x86" revision="r-x86" />
   <project path="hardware/memtrack" name="platform/hardware/memtrack" remote="x86" revision="r-x86" />
-  <project path="hardware/x86power" name="hardware-x86power" remote="BR-x86" revision="r11" />
+  <project path="hardware/x86power" name="hardware-x86power" remote="sg" revision="r11" />
   <project path="packages/apps/TSCalibration2" name="platform/packages/apps/TSCalibration2" remote="x86" revision="q-x86" />
 </manifest>
