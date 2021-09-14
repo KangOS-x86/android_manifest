@@ -36,9 +36,9 @@
   <project path="development" name="android_development" remote="kangos" />
 
   <!-- system -->
-  <project path="system/core" name="android_system_core" remote="kangos" />
+  <project path="system/core" name="android_system_core" remote="kang-x86" />
   <project path="system/tools/mkbootimg" name="android_system_tools_mkbootimg" remote="kangos" />
-  <project path="system/sepolicy" name="android_system_sepolicy" remote="kangos" />
+  <project path="system/sepolicy" name="android_system_sepolicy" remote="kang-x86" />
   <project path="system/vold" name="android_system_vold" remote="kangos" />
   <project path="system/libufdt" name="android_system_libufdt" remote="kangos" />
   <project path="system/bt" name="android_system_bt" remote="kangos" />
@@ -51,7 +51,7 @@
 
   <!-- packages -->
   <project path="packages/apps/Lawnchair" name="android_packages_apps_Lawnchair" remote="kangos" />
-  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="kangos" />
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="kang-x86" />
   <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="kangos" />
   <project path="packages/apps/DU-Themes" name="android_packages_apps_DU-Themes" remote="kangos" />
   <project path="packages/apps/Stk" name="packages_apps_Stk" remote="kangos" />
@@ -82,9 +82,7 @@
   
   <!-- hardware -->
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="kangos" />
-  <project path="hardware/custom/interfaces" name="android_hardware_custom_interfaces" remote="kangos" />
   <project path="hardware/knowles/athletico/sound_trigger_hal" name="android_hardware_knowles_athletico_sound_trigger_hal" remote="kangos" />
-  <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="kangos" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="kangos" />
   <project path="hardware/ril" name="android_hardware_ril" remote="kangos" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="kangos" />
