@@ -1,4 +1,4 @@
-# KangOS
+# KangOS-x86
 
 <centre> Yet Another cherry-picked [AOSP](https://source.android.com/) Custom ROM <centre/>
 
